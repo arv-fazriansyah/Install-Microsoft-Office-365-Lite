@@ -1,7 +1,7 @@
 # ★ Microsoft Office 365 Lite
 Install Microsoft Office 365 Lite/Minimalis Hanya Word, Excel dan Powerpoint
 
-★ Untuk Windows 10 x64
+★ Windows x32/x64
 
 ★ Download Bahan:
 1. Script O365ProPlusRetail
