@@ -1,7 +1,7 @@
 # ★ Microsoft Office 365 Lite
 Install Microsoft Office 365 Lite/Minimalis Hanya Word, Excel dan Powerpoint
 
-# ★ Microsoft Office 365 Offline Installed
+# ★ Offline Installed
 ★ Download Bahan:
 1. Script O365ProPlusRetail
 - https://go.fazriansyah.eu.org/Script-O365ProPlusRetail (4MB)
@@ -13,4 +13,4 @@ Install Microsoft Office 365 Lite/Minimalis Hanya Word, Excel dan Powerpoint
 2. Buka Folder "Offline-Install -> O365ProPlusRetail" Klik File "Click-Install"
 3. Done, Tunggu Hingga Proses Installasi Selesai
 
-# ★ Microsoft Office 365 Online Installed
+# ★ Online Installed
