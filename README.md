@@ -22,7 +22,7 @@ Install Microsoft Office 365 Lite/Minimalis Hanya Word, Excel dan Powerpoint
 - https://go.fazriansyah.eu.org/Online (4MB)
 
 ★ Proses Install:
-1. Buka Folder "Offline-Install"
+1. Buka Folder "Online-Install"
 2. Pilih 64bit atau 32bit
 3. Pilih Bahasa
 4. Klik File "Click-Install"
